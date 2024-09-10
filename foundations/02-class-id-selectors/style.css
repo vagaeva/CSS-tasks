@@ -1,0 +1,19 @@
+.text {
+    background-color: rgb(237, 159, 159);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#text2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+#text4 {
+    background-color: rgb(100, 218, 100);
+    font-size: 24px;
+    font-weight: bold;
+}
